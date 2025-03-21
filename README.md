@@ -1,6 +1,6 @@
 # Fan Yang
 
-![Profile Picture](link-to-profile-picture)
+![Profile Picture]([link-to-profile-picture](https://avatars.githubusercontent.com/u/45229498?v=4))
 
 Hi, I'm Fan Yang, a software developer based in Edmonton, AB, with over 15 years of experience in academia and industry. I specialize in Java, Python, and front-end technologies like React, Vue and Angular. I have a strong background in teaching and mentoring, having developed courses in various programming languages and technologies, including big data analytics and machine learning. I'm passionate about creating efficient and user-friendly applications and am currently seeking remote software development opportunities.
 
